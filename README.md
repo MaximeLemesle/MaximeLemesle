@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-PHP-darkblue?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-HTML-red?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat&logo=mysql&logoColor=white" />
 </p>
