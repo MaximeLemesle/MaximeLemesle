@@ -1,6 +1,6 @@
-# 👋 Salut, je suis Maxime Lemesle!
+# 👋 Salut, moi c'est Max !
 
-⚜️ Bonjour à tous, moi c'est Maxime Lemesle, un jeune développeur passionné par l'art du code et du design ! Mon travail consiste à créer des sites web et des applications mobiles qui font rêver.
+⚜️ Je suis un jeune développeur passionné par l'art du code et du design ! Mon travail consiste à créer des sites web et des applications mobiles qui font rêver.
 
 ## 💻 Langages et outils
 
