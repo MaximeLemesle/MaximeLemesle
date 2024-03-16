@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Framework-Vue.js-brightgreen?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Express.js-yellow?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
